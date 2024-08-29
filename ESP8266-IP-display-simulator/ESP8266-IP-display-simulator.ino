@@ -17,7 +17,7 @@ WiFiServer server(port);
 
 //Server connect to WiFi Network
 const char *ssid = "asus_F10";  //Enter your wifi SSID
-const char *password = "ab87935000";  //Enter your wifi Password
+const char *password = "xxxxxxxxx";  //Enter your wifi Password
 
 char macAddr[50];
 
